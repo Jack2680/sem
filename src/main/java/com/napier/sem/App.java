@@ -30,6 +30,7 @@ public class App
     }
 }
  **/
+//this is correct code
 package com.napier.sem;
 
 import java.sql.*;
